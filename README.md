@@ -34,17 +34,3 @@ Building tools that make software creation 10x faster. On the journey to build a
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
----
-
-#### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=yamsfeer&show_icons=true&theme=default&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamsfeer&layout=compact&theme=default&hide_border=true" />
-</div>
-
----
-
-#### 📬 Connect
-
-- GitHub: [@yamsfeer](https://github.com/yamsfeer)
