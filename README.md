@@ -1,10 +1,10 @@
-### Hi there, I'm yamsfeer 👋
+### Hi there, I'm yamsfeer
 
 Frontend Engineer | Vibe Coding & AI-powered dev tools | Building a one-person software company
 
 ---
 
-#### 🔭 What I'm Working On
+#### What I'm Working On
 
 探索 **Vibe Coding** — 用 AI 重新定义软件开发效率。相信未来的软件开发是"一个人 + AI"的组合，能够完成从发现需求、撰写文档、设计开发、部署上线到增长推广的全流程。
 
@@ -12,7 +12,7 @@ Building tools that make software creation 10x faster. On the journey to build a
 
 ---
 
-#### 🛠 Tech Stack
+#### Tech Stack
 
 **Frontend**
 
